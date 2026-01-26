@@ -54,7 +54,7 @@ The dataset used for this project contains **1,500 customer records** with featu
 
 * Jupyter Notebook
 
-## Exploratory Data Analysis (EDA)
+ ## Exploratory Data Analysis (EDA)
  
 Exploratory Data Analysis (EDA) was conducted to understand customer behavior, assess data quality, and identify patterns associated with churn.
 It helped validate business assumptions and highlight key drivers such as contract type, tenure, and billing behavior.
